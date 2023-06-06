@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  API_REST_URL: 'http://localhost/examen/capi_examen_back_eduardo_torres_franco/public/',
 };
 
 /*
